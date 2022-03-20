@@ -27,10 +27,11 @@
 			<hr>
 			<p style="font-size: 1.15em; margin-top: 4%;">앱앤미와 관련되어 궁금한 점이 있다면</p>
 			<p style="font-size: 1.15em; margin-top: 0.3%;">질문하고 궁금증을 풀어보세요.</p>
-			<p style="font-size: 1.25em; margin-top: 1.5%;">03.18-03.22</p>
+			<p style="font-size: 1.25em; margin-top: 1.5%;">03.18-03.27</p>
 			<div class="apply" style="cursor: pointer;">
 				<span onclick="location.href='submit.php'" style="cursor: pointer;">지원하기</span>
 			</div>
+			
 		</div>
 
 	</center>

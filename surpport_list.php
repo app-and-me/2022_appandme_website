@@ -21,7 +21,7 @@
    		if (mysqli_num_rows($result) > 0) {
     	while($row = mysqli_fetch_assoc($result)) {
 		?>
-					<div class="applicant" style="width: 30%;">
+					<div class="applicant" style="width: 30%; height : 200px;" >
 						<span id="hakbun"><?php echo $row["student_id"];?></span>
 						<span id="name"><?php echo $row["name"];?></span>
 						<p id="phone"><?php echo $row["phone"];?></p>

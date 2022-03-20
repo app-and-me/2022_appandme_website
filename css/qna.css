@@ -114,6 +114,7 @@ tr span{
   font-weight: 700;
 }
 
+
 /* mobile reactive web */
 @media all and (min-width:768px) and (max-width:1080px) {
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700&display=swap');

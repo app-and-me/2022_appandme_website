@@ -52,7 +52,7 @@
         </tr>
         <tr id="line" align="left">
           <td class="no2_A" colspan="2" style="display:none;">
-          <span>&nbsp;A.&nbsp;&nbsp;</span>2022년 03월 18일 부터 2022년 03월 22일까지 입니다.</td>
+          <span>&nbsp;A.&nbsp;&nbsp;</span>2022년 03월 18일 부터 2022년 03월 27일까지 입니다.</td>
         </tr>
 
         <tr id="line" align="center">
@@ -61,7 +61,7 @@
         </tr>
         <tr id="line" align="left">
           <td class="no3_A" colspan="2" style="display:none;">
-          <span>&nbsp;A.&nbsp;&nbsp;</span>2022년 03월 27일 토요일에 zoom으로 면접 진행합니다.</td>
+          <span>&nbsp;A.&nbsp;&nbsp;</span>2022년 03월 28일 월요일 오후 7시부터 zoom으로 면접 진행합니다.</td>
         </tr>
 
         <tr id="line" align="center">
@@ -73,6 +73,9 @@
           <span>&nbsp;A.&nbsp;&nbsp;</span>디자인과는 2명, 개발과는 과 상관없이 4명으로 총 6명 뽑습니다.</td>
         </tr>
       </tbody>
+     <!-- <div>
+        <img src="img/facebook_logo.png" alt="" id="f_logo" style="width : 30px; height : 30px margin-top : 250px" onclick="location.href='https://www.facebook.com/APPandME2012'">
+      </div> -->
     </table>
   </center>
   <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
